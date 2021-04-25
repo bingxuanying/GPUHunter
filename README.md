@@ -1,2 +1,2 @@
-# RoomOfRequirement
+# GPUHunter
 product recommendation system
