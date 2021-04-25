@@ -1,2 +1,2 @@
 # GPUHunter
-product recommendation system
+newegg and amazon gpu monitor
