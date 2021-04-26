@@ -1,0 +1,35 @@
+{
+  "username": "yingbingxuan@gmail.com",
+  "password": "",
+  "webhook": "https://discord.com/api/webhooks/726764282838122597/LSzz34d-Uh_voWgUhnXp0brFmb9j2ZxsIjMLGpPZSfIWm_cHH0iYEKL6azriQ5qulLQN",
+  "watch_list": [
+    "B08FC6MR62",
+    "B08FC5L3RG",
+    "B08W8DGK3X",
+    "B08WHJPBFX",
+    "B08YNQ4ZM1",
+    "B08YN79ZW2",
+    "67XTYLUDP",
+    "B08YKFS27X",
+    "B08YKCRB74",
+    "B08YKCC8XD",
+    "B08YK97LKC"
+  ],
+  "monitor_delay": 45,
+  "discord_id": "ybxx#1629",
+  "filter": {
+    "3060": 450,
+    "3070": 650,
+    "3080": 800,
+    "3090": 1550,
+    "Xbox Series X": 550,
+    "PlayStation 5 Digital Edition": 500,
+    "PlayStation 5 Console": 600,
+    "Xbox Series S": 350,
+    "5600X": 350,
+    "5800X": 500,
+    "5900X": 650,
+    "5950X": 850,
+    "6700xt": 600
+  }
+}

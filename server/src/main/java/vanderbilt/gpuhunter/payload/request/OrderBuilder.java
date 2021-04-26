@@ -37,8 +37,8 @@ public class OrderBuilder {
                         @JsonProperty("selectedGPU")List<Boolean> selectedGPU,
                         @JsonProperty("targetPrice")List<Integer> targetPrice,
                         @JsonProperty("refreshRate")Integer refreshRate,
-                        @JsonProperty("refreshRate")Integer timestamp,
-                        @JsonProperty("refreshRate")Integer scheduledTime) {
+                        @JsonProperty("timestamp")Integer timestamp,
+                        @JsonProperty("scheduledTime")Integer scheduledTime) {
         this.username = username;
         this.password = password;
         this.proxyLst = proxyLst;
